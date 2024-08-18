@@ -1,6 +1,6 @@
 # Dribbble Website Clone
 
-This is a solution of development of the frontend part of dribbble website clone using HTML and CSS Only created by Kuldeep Tripathi.
+This is a solution of development of the frontend part of dribbble website clone using HTML and CSS Only created by Harshita Mishra.
 
 <<<<<<< HEAD
 ### Links
